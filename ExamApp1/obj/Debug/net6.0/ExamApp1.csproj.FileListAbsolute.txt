@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\bin\Debug\net6.0\ExamApp1.exe
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\bin\Debug\net6.0\ExamApp1.deps.json
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\bin\Debug\net6.0\ExamApp1.runtimeconfig.json
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\bin\Debug\net6.0\ExamApp1.dll
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\bin\Debug\net6.0\ExamApp1.pdb
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ExamApp1.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ExamApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ExamApp1.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ExamApp1.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ExamApp1.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ExamApp1.dll
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\refint\ExamApp1.dll
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ExamApp1.pdb
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ExamApp1.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Belgeler\Bilge Adam\ExamApp1\ExamApp1\obj\Debug\net6.0\ref\ExamApp1.dll
