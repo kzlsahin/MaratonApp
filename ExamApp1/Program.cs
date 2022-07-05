@@ -15,6 +15,8 @@ namespace MaratonApp
         Console.WriteLine("Bu uygulama girdiğiniz koşu süreleri ve adım mesafenize göre koştuğunuz mesafeyi hesaplar");
         Console.WriteLine("Maraton koşunuz farklı aşamalardan oluşuyorsa her bir aşamayı ayrı koşu olarak ekleyebilirsiniz.");
         //Git deneme comment
+
+            //Git deneme 2
             Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
         List<Jogging> joggingList = new List<Jogging>();
         Double durationSec = 0;
